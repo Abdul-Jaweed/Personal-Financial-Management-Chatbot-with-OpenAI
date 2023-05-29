@@ -71,4 +71,5 @@ def chatbot_interface(query):
 # Run the Gradio interface
 if __name__ == '__main__':
     iface = gr.Interface(fn=chatbot_interface, inputs="text", outputs="text", title="Personal Financial Management Chatbot", description="Ask me anything about your finances!")
-    iface.launch(share=True)
+    #iface.launch()            # For local URL
+    iface.launch(share=True)   # For Public URL
