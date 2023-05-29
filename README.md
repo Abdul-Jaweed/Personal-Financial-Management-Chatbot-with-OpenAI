@@ -18,3 +18,17 @@ Personal Financial Management Chatbot with OpenAI's language model. The chatbot 
 ## WEB API Query
 
 ![img](https://github.com/Abdul-Jaweed/Personal-Financial-Management-Chatbot-with-OpenAI/blob/main/images/chatbot.PNG)
+
+
+
+# How to run this chatbot
+
+**Step 1 : ** Clone this repo to your local repository
+
+**Step 2 : ** Generate OpenAI API Key by click this [link]("https://platform.openai.com/account/api-keys)
+
+**Step 3 : ** Create one file named .env to your local directory and paste this `OPENAI_API_KEY = "paste your own OpenAI API key"`
+
+**Step 4 : ** Open VSCODE inside open bash terminal and run this file using this cmd `bash init_setup.sh`
+
+**Step 5 : ** Run python app.py
