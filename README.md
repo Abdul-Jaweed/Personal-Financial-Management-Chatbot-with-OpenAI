@@ -13,8 +13,8 @@ Personal Financial Management Chatbot with OpenAI's language model. The chatbot 
 
 ## WEB API
 
-![img](images\chatbot1.PNG)
+![img](https://github.com/Abdul-Jaweed/Personal-Financial-Management-Chatbot-with-OpenAI/blob/main/images/chatbot1.PNG)
 
 ## WEB API Query
 
-![img](images\chatbot.PNG)
+![img](https://github.com/Abdul-Jaweed/Personal-Financial-Management-Chatbot-with-OpenAI/blob/main/images/chatbot.PNG)
